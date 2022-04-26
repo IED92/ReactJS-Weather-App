@@ -20,7 +20,7 @@ export default function WeatherContainer() {
     const lat = '49.2827'
     const long = '-123.1207'
 
-    const apiKey = '1ae5b3a58a1d2fd2112f37b2a018d14b'
+    const apiKey = ''
     const apiUrl = `https://api.openweathermap.org/data/2.5/onecall?lat=${lat}&lon=${long}&appid=${apiKey}`;
 
     useEffect(() => {
