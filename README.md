@@ -1,6 +1,6 @@
 ### Learning Outcomes
 
-Project was created to practice using thrid API calls as well as useEffect/useState hooks.
+Project was created to practice using third-party API calls as well as useEffect/useState hooks.
 
 ### Prerequisites
 
@@ -37,7 +37,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <!-- USAGE EXAMPLES -->
 
-<img src="https://github.com/IED92/ReactJS-Weather-App/blob/main/Screenshot.png" width=50% height=50% />
+<img src="https://raw.githubusercontent.com/IED92/ReactJS-Weather-App/master/Screenshot.png" width=50% height=50% />
 
 <!-- CONTACT -->
 
