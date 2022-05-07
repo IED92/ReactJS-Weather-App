@@ -1,14 +1,11 @@
-import './App.css';
-import WeatherContainer from './components/WeatherContainer';
+import WeatherContainer from './containers/WeatherContainer';
 
 
 function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
-        <WeatherContainer />
-      </header>
+      <WeatherContainer />
     </div>
   );
 }
