@@ -11,8 +11,6 @@ Project was created to practice using third-party API calls as well as useEffect
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Get a free API Key at [openweathermap.org/api](https://openweathermap.org/api)
 2. Clone the repo
    ```sh
